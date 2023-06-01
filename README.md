@@ -5,4 +5,4 @@ This GUI application can be used for memorizing stuff like formulae, vocabulary,
 *❌Has cross and check buttons to mark the word as unknown or known  <br> 
 *📄Creates a CSV file containing a list of unknown words   <br>
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fimksprateek%2Fstatus%2F1664300844874072065)
+![Twitter URL](https://img.shields.io/twitter/follow/imksprateek?style=social)
